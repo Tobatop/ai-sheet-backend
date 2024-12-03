@@ -6,3 +6,4 @@ tiktoken
 numpy
 pandas
 python-dotenv
+uvicorn
